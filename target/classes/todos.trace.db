@@ -1,0 +1,3 @@
+2024-06-26 04:57:50 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "BOOK" not found; SQL statement:
+select * from book whwre todo=? and status=? and priority=? [42102-214]
